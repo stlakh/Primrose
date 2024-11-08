@@ -1,3 +1,3 @@
 [
-  "6287788772875@s.whatsapp.net"
+  "6285822769971@s.whatsapp.net"
 ]
